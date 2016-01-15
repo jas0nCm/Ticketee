@@ -52,3 +52,11 @@ group :development do
   gem 'spring'
 end
 
+# Use Bootstrap for frontend styling
+gem 'bootstrap-sass', '~> 3.3'
+
+# Use Font Awesome for page styling elements
+gem 'font-awesome-rails', '~> 4.3'
+
+# Use Simple Form for simpler forms with Bootstrap integration
+gem 'simple_form', '~> 3.1.0'
